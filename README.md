@@ -15,6 +15,7 @@ The report empowers retail managers, merchandisers, and operations heads to opti
 ---
 
 ## 📸 Dashboard Preview
+<img width="3075" height="1763" alt="Carrfour - Dashboard_page-0001" src="https://github.com/user-attachments/assets/6e4d89c9-8697-4f31-98a3-9d6c3a0941a6" />
 <img width="3075" height="1763" alt="Carrfour - Dashboard_page-0002" src="https://github.com/user-attachments/assets/bf4d8a26-c214-420b-8be8-fd5de2995f15" />
 
 
